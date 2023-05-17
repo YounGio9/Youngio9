@@ -68,10 +68,10 @@
 <div>
 
 <p> <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=youngio9&show_icons=true&theme=onedark&locale=en&layout=compact" /> </p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=YounGio9&show_icons=true&theme=onedark" /> </>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=youngio9&show_icons=true&theme=onedark" /> </>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngio9&" alt="marcosyh" /></p>
     
   </div>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YounGio9&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youngio9&label=Profile%20views&color=0e75b6&style=flat" /> </p>
   
