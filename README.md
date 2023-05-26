@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python and FastAPI
 - 💬 After programming, I really like skateboarding, clothes design and socials medias.
 - 📫 giovanidesouza999@gmail.com
-- ⚡ Link tov my personal [Portolio](youngio9.github.io/Portfolio)
+- ⚡ Link to my personal [Portolio](youngio9.github.io/Portfolio)
 
 <br />
 
