@@ -3,7 +3,7 @@
 # I'm Giovani de SOUZA, a Full Stack developper
 
 
-- 🌱 I’m currently learning Python and FastAPI
+- 🌱 I’m currently learning Swift and nestJs
 - 💬 After programming, I really like skateboarding, clothes design and socials medias.
 - 📫 giovanidesouza999@gmail.com
 - ⚡ Link to my personal [Portolio](youngio9.github.io/Portfolio)
